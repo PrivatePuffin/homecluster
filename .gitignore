@@ -1,0 +1,6 @@
+age.agekey
+talconfig.json
+patches/sopssecret.yaml
+deps/*
+!deps/talhelper
+!deps/encryption.sh
